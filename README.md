@@ -1,0 +1,1 @@
+# aem-osgiR6-annotaion-runmode-conf-demo
